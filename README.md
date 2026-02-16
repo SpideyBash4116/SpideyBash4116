@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on webgames
 - 📫 How to reach me: I don't know :/
-- 😄 Pronouns: He
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: My game, Atlas Reign, is one of the first actual repo I've made!
 
 <!---
